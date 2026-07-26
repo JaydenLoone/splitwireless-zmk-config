@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: altera_left
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: altera_right
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: settings_reset
