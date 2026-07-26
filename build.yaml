@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano
-    shield: caldera_left
+    shield: altera_left
   - board: nice_nano
-    shield: caldera_right
+    shield: altera_right
   - board: nice_nano
     shield: settings_reset

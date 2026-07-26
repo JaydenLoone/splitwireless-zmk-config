@@ -1,0 +1,6 @@
+config SHIELD_ALTERA_LEFT
+    def_bool $(shields_list_contains,altera_left)
+
+config SHIELD_ALTERA_RIGHT
+    def_bool $(shields_list_contains,altera_right)
+
